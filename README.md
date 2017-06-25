@@ -5,4 +5,6 @@
 - springboot
 - mybatis
 - redis
+- solar
+- sso
 - jsp javascript jQuery easyUI
